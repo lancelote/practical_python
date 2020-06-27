@@ -13,9 +13,10 @@ My solutions for "Practical Python" course by [David Beazley][1]
     - [Exercise 1.9 - Making an Extra Payment Calculator](src/extra_payment_calc.py)
     - [Exercise 1.10 - Making a Table](src/mortgage_table.py)
     - [Exercise 1.11 - Bonus](src/mortgage_overpayment.py)
-    - [Exercise 1.27 - Reading a data file](src/pcost.py)
-    - [Exercise 1.30 - Turning a script into a function](src/pcost_function.py)
-    - [Exercise 1.31 - Error handling](src/pcost_error_handling.py)
+    - [Exercise 1.27 - Reading a Data File](src/pcost.py)
+    - [Exercise 1.30 - Turning a Script into a Function](src/pcost_function.py)
+    - [Exercise 1.31 - Error Handling](src/pcost_error_handling.py)
+    - [Exercise 1.32 - Using a Library Function](src/pcost_library.py)
 - [ ] 2. Working with Data
 - [ ] 3. Program Organization
 - [ ] 4. Classes and Objects
