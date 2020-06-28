@@ -17,6 +17,7 @@ My solutions for "Practical Python" course by [David Beazley][1]
     - [Exercise 1.30 - Turning a Script into a Function](src/pcost_function.py)
     - [Exercise 1.31 - Error Handling](src/pcost_error_handling.py)
     - [Exercise 1.32 - Using a Library Function](src/pcost_library.py)
+    - [Exercise 1.33 - Reading from the Command Line](src/pcost_args.py)
 - [ ] 2. Working with Data
 - [ ] 3. Program Organization
 - [ ] 4. Classes and Objects
