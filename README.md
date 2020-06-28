@@ -5,7 +5,7 @@ My solutions for "Practical Python" course by [David Beazley][1]
 ## ToC
 
 - [x] 0. Course Setup
-- [ ] 1. Introduction to Python
+- [x] 1. Introduction to Python
     - [Exercise 1.5 - The Bouncing Ball](src/bounce.py)
     - [Exercise 1.6 - Debugging](src/sears.py)
     - [Exercise 1.7 - Dave's Mortgage](src/mortgage.py)
